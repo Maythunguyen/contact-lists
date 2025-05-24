@@ -44,7 +44,7 @@ const ContactListsSection = () => {
                     </p>
                 </div>
 
-                <div className="mb-10 max-w-[50%]">
+                <div className="mb-10 w-full sm:max-w-[50%]">
                     <SearchBar />
                 </div>
 

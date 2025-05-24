@@ -93,6 +93,8 @@ Satoshi font for modern typography
 
 - User can Create new contacts, Edit, Delete contacts. 
 
-- Add Lazy Load, make better UI 
+- Make the sidebar menu items functional
+
+- Add lazy loading and improve the UI
 
 
