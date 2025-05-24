@@ -91,3 +91,8 @@ Satoshi font for modern typography
 
 - Add sort options (e.g. A–Z)
 
+- User can Create new contacts, Edit, Delete contacts. 
+
+- Add Lazy Load, make better UI 
+
+
