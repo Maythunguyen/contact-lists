@@ -9,9 +9,10 @@ import {
   IconBriefcase
 } from "@tabler/icons-react";
 
+
 const ContactCard = ({ contact }) => {
   return (
-    <div className="w-full max-w-sm rounded-xl overflow-hidden bg-white shadow-md dark:bg-neutral-800 transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-lg">
+    <div className="w-full max-w-sm rounded-xl overflow-hidden bg-white shadow-subtle dark:bg-neutral-800 transition-transform duration-300 ease-in-out hover:-translate-y-2 hover:shadow-lg">
       {/* HEADER SECTION */}
       <div className="flex items-center space-x-4 px-4 py-5 rounded-t-xl border-b border-gray-100">
         <img
@@ -55,3 +56,4 @@ const ContactCard = ({ contact }) => {
 };
 
 export default ContactCard;
+
