@@ -40,7 +40,7 @@ const ContactListsSection = () => {
                         Contacts 
                     </h1>
                     <p className="max-w-2xl text-sm md:text-md mt-8 dark:text-neutral-200">
-                        List of people you have contacted. You can add, edit, or delete contacts as needed.
+                        A list of people you've contacted. Browse through any contact whenever you need.
                     </p>
                 </div>
 
