@@ -73,7 +73,7 @@ export const Logo = () => {
           animate={{ opacity: 1 }}
           className="font-medium whitespace-pre text-black dark:text-white"
         >
-          Resonate
+          May Thu Nguyen List
         </motion.span>
       </a>
     );
